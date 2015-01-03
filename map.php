@@ -43,7 +43,7 @@
         // This example creates a simple polygon representing the Bermuda Triangle.
 
         $(function(){
-            $.get("/~cskevint/rbcca/temp.json", function(result){
+            $.get("/rbcca/temp.json", function(result){
 
                 var coordinates = result.mpoly.coordinates[0];
 
