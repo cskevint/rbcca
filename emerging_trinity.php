@@ -65,6 +65,7 @@
         </div>
     </div>
 </div>
+<p>&nbsp;</p>
 <div class="row">
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">

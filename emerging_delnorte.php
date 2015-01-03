@@ -14,15 +14,15 @@
             <dt>Total</dt>
             <dd>27,900</dd>
             <dt>Crescent City</dt>
-            <dd>4 Elementary (K-5)<br/>
-                1 Middle (6-8)<br/>
-                2 High (9-12)<br/>
-                2 Charter (1: K-12, 1: K-8)</dd>
+            <dd>7,400</dd>
         </dl>
         <h4>Schools</h4>
         <dl class="dl-horizontal">
             <dt>Crescent City</dt>
-            <dd>2 K-8 Schools<br/> 2 9-12 Schools</dd>
+            <dd>4 Elementary (K-5)<br/>
+                1 Middle (6-8)<br/>
+                2 High (9-12)<br/>
+                2 Charter (1: K-12, 1: K-8)</dd>
         </dl>
     </div>
     <div class="col-lg-4">

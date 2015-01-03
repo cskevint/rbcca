@@ -28,5 +28,5 @@
 <?php require_once('emerging_mendocino.php'); ?>
 <?php require_once('emerging_lake.php'); ?>
 <?php require_once('emerging_delnorte.php'); ?>
-<?php //require_once('emerging_modoc.php'); ?>
+<?php require_once('emerging_modoc.php'); ?>
 <?php require_once('emerging_trinity.php'); ?>
