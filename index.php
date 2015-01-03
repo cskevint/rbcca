@@ -4,6 +4,7 @@
   }
   session_start();
   $name = "Regional Bah&aacute;'&iacute; Council of the State of California";
+  $short_name = "Regional Bah&aacute;'&iacute; Council of CA";
 
   require_once('_header.php');
   
