@@ -4,18 +4,6 @@
 
 <h3>Trinity County</h3>
 
-<?php
-/*
-Total Population: 13,400
-
-Weaverville: 3,600 (2: K-8, 2: 9-12)
-Hayfork: 2,400 (2: K-8, 1: 7-12, 2: 9-12)
-Lewiston: 1,200 (1: K-8)
-Douglas City: 700 (1: K-8)
-Junction City: 700 (1: K-8)
-*/
-?>
-
 <div class="row">
     <div class="col-lg-4 text-center">
         <img src="images/maps/CA-NC%20Clusters/CA-NC%2025.JPG" class="img-responsive"/>
