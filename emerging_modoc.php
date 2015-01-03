@@ -2,11 +2,11 @@
 
 <hr style="margin-top:55px;margin-bottom:55px;"/>
 
-<h3>Modoc County</h3>
+<h3>Modoc/Lassen County</h3>
 
 <div class="row">
     <div class="col-lg-4 text-center">
-        <img src="images/maps/CA%20NI%20clusters/CA-NI%2018.JPG" class="img-responsive"/>
+        <img src="images/maps/CA%20NI%20clusters/CA-NI%2018.JPG" class="img-responsive img-zoom"/>
     </div>
     <div class="col-lg-4">
         <h4>Population</h4>

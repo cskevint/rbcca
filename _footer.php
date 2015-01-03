@@ -1,3 +1,4 @@
+<div class="container">
     <footer>
         <hr>
         <div class="row">
@@ -7,7 +8,7 @@
         </div>
     </footer>
 
-</div><!-- /.container -->
+</div>
 
 </body>
 </html>
