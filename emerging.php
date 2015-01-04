@@ -1,7 +1,6 @@
 <script type="text/javascript">
     $(function(){
         $(".img-zoom").click(function(event){
-                event.preventDefault();
             $(".modal")
                 .modal('show')
                 .find(".modal-body img")
@@ -9,6 +8,15 @@
         });
     });
 </script>
+
+<style type="text/css">
+    .img-zoom {
+        cursor: pointer;
+    }
+    /*.modal-backdrop {*/
+        /*position: fixed !important;*/
+    /*}*/
+</style>
 
 <div class="modal fade">
     <div class="modal-dialog modal-lg" style="left:0">
