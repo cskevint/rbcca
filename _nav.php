@@ -18,10 +18,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <!-- <li><a href="#about">Clusters</a></li> -->
-                <!-- <li><a href="#services">Training Institute</a></li> -->
-                <!-- <li><a href="#services">Service</a></li> -->
-                <!-- <li><a href="#contact">Contact</a></li> -->
+                 <li><a href="index.php">Contact Information</a></li>
+                 <li><a href="emerging.php">Home-front Pioneering in Goal Clusters</a></li>
+<!--                 <li><a href="#services">Training Institute</a></li>-->
+<!--                 <li><a href="#services">Service</a></li>-->
                 <?php
                     $hostname = str_replace(__FILE__, "", $_SERVER["REQUEST_URI"]);
                     if(isset($_SESSION['unity_token'])) {

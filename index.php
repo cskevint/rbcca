@@ -10,7 +10,7 @@
   
   require_once('_nav.php');
   
-  require_once('emerging.php');
+  require_once('home.php');
   
   require_once('_footer.php');
 ?>
