@@ -20,23 +20,24 @@
 
             <div class="well">
             <h4>Contact Details</h4>
-            <ul>
-                <li class="">
+            <div style="margin-left:15px">
+                <p class=""><span class="glyphicon glyphicon-road"></span> PO Box 599, Ahwahnee, California 93601</p>
+                <p class="">
                     <span class="glyphicon glyphicon-envelope"></span>
                     <script type="text/javascript">
                         var username = "secretary", hostname = "rbcca.org", linkText = username + "@" + hostname;
                         document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linkText + "</a>");
                     </script>
-                </li>
+                </p>
                 <!--                <li class="">-->
                 <!--                    <span class="glyphicon glyphicon-road"></span>-->
                 <!---->
                 <!--                </li>-->
-                <li class="">
+                <p class="">
                     <span class="glyphicon glyphicon-thumbs-up"></span>
                     <a href="https://www.facebook.com/bahaicouncilca">Facebook</a>
-                </li>
-            </ul>
+                </p>
+            </div>
             </div>
         </div>
     </div>
